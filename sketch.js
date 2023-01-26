@@ -16,7 +16,7 @@ function preload(){
    fruit4Image = loadImage("fruit4.png");
    enemyImage = loadAnimation("alien1.png","alien2.png");
    GameOverImage = loadImage("gameover.png");
-   swordImage = loadImage("sword.png");
+   swordImage = loadImage("sword-removebg-preview.png");
   GameoverSound = loadSound("gameover.mp3");
   swordSound = loadSound("knifeSwooshSound.mp3");
 }
